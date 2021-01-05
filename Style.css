@@ -1,0 +1,68 @@
+table
+{
+	border: solid blue 1px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+span, table
+{
+	border: solid lightseagreen 10px;
+}
+
+
+h4
+{
+	color: orange;
+	font-size: 1.0em;
+}   
+
+th
+{
+	border: solid indigo 0px;
+}
+
+textarea
+{
+	color: green;
+	padding-top: 6px;
+	padding-bottom: 5px;
+	padding-left: 4px;
+	padding-right: 3px;
+}
+
+.bolded
+{
+	font-weight: bolder;
+}
+
+#unique
+{
+	background: pink;	
+}
+
+nav li a
+{
+   color: #ffffff;
+}
+
+nav li a:hover, nav li a.current
+{
+   color: #000000;
+}
+
+section.courses
+{
+   float: left;
+   width: 659px;
+   border-right: 1px solid #eeeeee;
+}
+
+
+article
+{
+    clear: both;
+	overflow: auto;
+}

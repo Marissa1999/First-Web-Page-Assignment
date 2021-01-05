@@ -1,0 +1,8 @@
+Creating a full web page using only HTML elements (no CSS and no use of style attributes).
+You can use any attributes you need to, except the style attribute.
+
+Web Design:
+The full width of the browser must be used to create a menu consisting of 3 working menus (menu target is irrelevant).
+Below the menu, a multi-line text must be displayed, spanning the entire width of the browser.
+Below the text, 2 sections must be created, side by side, containing in the left section an image and in the right section a multi-line text.
+At the bottom of the page, a footer section displaying the copyright information.
